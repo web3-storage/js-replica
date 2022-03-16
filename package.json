@@ -31,6 +31,11 @@
       "test/**"
     ]
   },
+  "dependencies": {
+    "multiformats": "^9.6.4",
+    "@ipld/dag-cbor": "^7.0.1",
+    "@ipld/car": "^4.0.0"
+  },
   "devDependencies": {
     "c8": "^7.11.0",
     "@types/mocha": "^9.1.0",
